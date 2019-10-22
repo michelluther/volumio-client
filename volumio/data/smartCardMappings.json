@@ -1,0 +1,13 @@
+[
+  {
+    "smartCardID": 1,
+    "type": "webradio",
+    "title": "Radio Teddy",
+    "uri": "http://streamtdy.ir-media-tec.com/live/mp3-128/tunein_web_mp3"
+  },
+  {
+    "smartCardID": 2,
+    "type": "playList",
+    "title": "Immer noch Mensch" 
+  }
+]
